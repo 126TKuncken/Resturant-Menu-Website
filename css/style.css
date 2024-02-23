@@ -1,11 +1,11 @@
-/* Reset CSS */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Global Styles */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -20,7 +20,7 @@ body {
     padding: 20px;
 }
 
-/* Header Styles */
+
 header {
     background: #333;
     color: #fff;
@@ -46,7 +46,6 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* Hero Section Styles */
 #hero {
     background: url('hero-image.jpg') center/cover;
     color: #fff;
@@ -54,13 +53,13 @@ nav ul li a {
     padding: 100px 0;
 }
 
-/* About Section Styles */
+
 #about {
     background: #fff;
     padding: 50px;
 }
 
-/* Menu Section Styles */
+
 #menu {
     background: #f4f4f4;
     padding: 50px;
@@ -74,7 +73,7 @@ nav ul li a {
     margin-bottom: 10px;
 }
 
-/* Contact Section Styles */
+
 #contact {
     background: #333;
     color: #fff;
@@ -82,7 +81,7 @@ nav ul li a {
     text-align: center;
 }
 
-/* Footer Styles */
+
 footer {
     background: #555;
     color: #fff;
@@ -93,7 +92,6 @@ footer {
     bottom: 0;
 }
 
-/* Media Queries */
 @media (max-width: 768px) {
     .container {
         width: 90%;
