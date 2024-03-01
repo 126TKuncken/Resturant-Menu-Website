@@ -1,11 +1,11 @@
-body { 
-    background-color: dodgerblue;
-}
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Dancing Script", cursive;
     margin: 0;
     padding: 0;
+    background-image: url('../img/wood.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 img {
